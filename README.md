@@ -1,7 +1,7 @@
 # Adekemi Sijuwade-Ukadike
 
 Artist • Director of Digital Journalism Systems • Creative Technologist • Accessibility Advocate
-
+<img src="images/adekemi-rooftop.jpg" width="420" alt="Adekemi Sijuwade-Ukadike, wearing a pink kaftan, standing on a rooftop overlooking New York City at night while holding a walking cane.">
 ---
 
 ## About
