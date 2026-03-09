@@ -1,7 +1,11 @@
 # Adekemi Sijuwade-Ukadike
 
-Artist • Director of Digital Journalism Systems • Creative Technologist • Accessibility Advocate
-<img src="adekemi-rooftop.jpg" width="420" alt="Adekemi Sijuwade-Ukadike, wearing a pink kaftan, standing on a rooftop overlooking New York City at night while holding a walking cane.">
+<img src="adekemi-rooftop.JPG" width="500" alt="Adekemi Sijuwade-Ukadike standing on a rooftop overlooking a city at night while holding a walking cane.">
+
+## Creative Technologist • Artist Leader • Digital Journalism Systems • Accessible Knowledge and Sensing Systems
+
+Observation is the beginning of knowledge. Tools matter because they shape who gets to observe and participate.
+
 ---
 
 ## About
@@ -16,39 +20,38 @@ While living in Nigeria she survived a severe case of drug-resistant malaria tha
 
 As a disabled artist and technologist, accessibility is treated not as a feature but as a design principle. Her work explores how technology can extend human perception through visual, auditory, tactile, and environmental signals.
 
-She is also a mother and wife whose family and community relationships inform a deeply relational approach to learning, technology, and collaborative exploration.
-
 ---
 
 ## Projects
 
-### Earth Sensors Lab
-A youth-centered creative technology project where gardens become living laboratories for environmental sensing, accessible instrumentation, and collaborative learning.
-
 ### Omoluabi
+
 An experimental journalism system exploring transparency, signal detection, and ethical knowledge infrastructures.
 
+### Earth Sensors Lab
+
+A youth-centered creative technology project where gardens become living laboratories for environmental sensing, accessible instrumentation, and collaborative learning.
+
 ### Youth Education & Community Learning
+
 Workshops where students build instruments, explore environmental signals, and interpret data through creative practice.
 
-### Digital Accessibility
-Designing tools, interfaces, and learning environments that support participation across diverse bodies and sensory abilities.
-
 ### Wearable & Jewelry-Based Technology
+
 Explorations in projection mapping jewelry, responsive materials, and wearable artifacts that translate environmental signals into tactile or visual forms.
 
 ---
 
 ## Current Areas of Exploration
 
-🌍 Environmental sensing and community observatories  
-🌱 Garden-based learning and youth experimentation  
-🌌 Curiosity about cosmic and interstellar signals  
-🛠 Accessible instruments and creative technology  
-🤖 Early exploration of soft robotics and responsive materials  
+📰 Omoluabi — experimental journalism systems and ethical knowledge infrastructures
 
----
+🌍 Environmental sensing and community observatories
 
-## Personal Interests
+🌱 Garden-based learning and youth experimentation
 
-Writing • Cooking • Jewelry making • Gardening
+🌌 Curiosity about cosmic and interstellar signals
+
+🛠 Accessible instruments and creative technology
+
+🤖 Early exploration of soft robotics and responsive materials
