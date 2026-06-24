@@ -46,6 +46,25 @@ Small Systems Lab (SSL) is my independent research and creative practice — a s
   <sub><em>The Small Systems Lab ecosystem and its six branches.</em></sub>
 </div>
 
+### Small Systems Lab Method
+
+Small Systems Lab builds tender systems through **operations of care**, **rule-based intelligence**, **ancient geometry**, **accessibility**, and **public knowledge**.
+
+SSL asks operational questions before technical ones: who is served, what is collected, what is refused, what consent exists, what risk is created, what must be withheld, what can return to the community, and who has authority to override the machine.
+
+The lab treats intelligence as governance rather than magic. AI may assist, classify, translate, summarize, or detect patterns, but the rules must be visible and human judgment remains central.
+
+Ancient geometry acts as interface logic:
+
+- **Circle** — consent, return, review, recurrence.
+- **Triangle** — witness, source, context.
+- **Grid** — archive, taxonomy, navigation, civic order.
+- **Spiral** — memory, time, learning, revision.
+- **Golden ratio** — calm proportion and readable hierarchy.
+- **Threshold** — the moment between observe, verify, withhold, and publish.
+
+Accessibility is the architecture of the lab: keyboard-first, screen-reader-readable, captioned, translated, high-contrast, low-bandwidth, and designed for people working in compromised environments.
+
 The ecosystem holds six branches:
 
 - **Omoluabi** — Civic information and editorial intelligence systems for memory, truth, and context.
