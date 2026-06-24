@@ -1,0 +1,144 @@
+/* Site-specific layout glue. Tokens/components come from variables.css (locked); this file
+   only adds layout (max-width, grid, profile header) and base element rules variables.css
+   doesn't set. */
+
+body {
+  margin: 0;
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  line-height: var(--line-body);
+}
+
+a {
+  color: var(--color-ink);
+  text-decoration: underline;
+}
+a:hover { text-decoration-thickness: 2px; }
+
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background-color: var(--color-ink);
+  color: var(--color-paper);
+  padding: var(--space-sm) var(--space-md);
+  font-family: var(--font-mono);
+  z-index: 100;
+}
+.skip-link:focus { left: var(--space-sm); top: var(--space-sm); }
+
+.wrap {
+  max-width: 64rem;
+  margin: 0 auto;
+  padding: 0 var(--space-lg);
+}
+
+header.header {
+  border-bottom: var(--border-thick);
+  padding: var(--space-xl) 0;
+  margin-bottom: 0;
+}
+
+.profile-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: var(--space-xl);
+}
+
+.portrait {
+  flex: 0 0 auto;
+  width: 9rem;
+  height: 9rem;
+  object-fit: cover;
+  border: var(--border-thick);
+}
+
+.profile-header .intro {
+  flex: 1 1 20rem;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+}
+
+main { padding: var(--space-2xl) 0 var(--space-3xl); }
+main section { margin-bottom: var(--space-3xl); }
+
+.divider {
+  border: none;
+  border-top: var(--border-thin);
+  margin: var(--space-2xl) 0;
+}
+
+.grid-2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: var(--space-lg);
+}
+
+.grid-3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  gap: var(--space-lg);
+}
+
+.lesson-list {
+  list-style: decimal;
+  margin: var(--space-md) 0 var(--space-md) var(--space-lg);
+  padding: 0;
+}
+.lesson-list li { margin-bottom: var(--space-sm); }
+
+.branch-card .tag {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: var(--text-small);
+  text-transform: uppercase;
+  letter-spacing: var(--letter-wide);
+  color: var(--color-muted);
+  border: var(--border-thin);
+  padding: 0.1rem 0.5rem;
+  margin-top: var(--space-sm);
+}
+
+figure {
+  margin: var(--space-lg) 0;
+}
+figure img {
+  display: block;
+  width: 100%;
+  border: var(--border-thin);
+}
+figcaption {
+  font-family: var(--font-mono);
+  font-size: var(--text-small);
+  color: var(--color-muted);
+  margin-top: var(--space-sm);
+}
+
+.evidence-states {
+  background-color: var(--color-soft);
+  border: var(--border-thin);
+  padding: var(--space-lg);
+  font-family: var(--font-mono);
+  font-size: var(--text-small);
+  line-height: var(--line-code);
+  overflow-x: auto;
+}
+
+.exp-list,
+.fellow-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.exp-list li,
+.fellow-list li {
+  margin-bottom: var(--space-lg);
+}
+
+footer.site-footer {
+  border-top: var(--border-thick);
+  padding: var(--space-xl) 0 var(--space-2xl);
+}
