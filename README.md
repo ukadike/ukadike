@@ -22,6 +22,18 @@ My practice draws from journalism, disability advocacy, artist support, emerging
 
 ---
 
+## Why this work
+
+I helped build early digital journalism infrastructure during the formative years of online publishing — including online newsrooms I built and directed while living in Nigeria.
+
+While in Nigeria, a severe case of drug-resistant malaria triggered a neurological illness that became Guillain-Barré syndrome and, later, chronic inflammatory demyelinating polyneuropathy (CIDP). That experience reshaped my relationship with technology and deepened a commitment to designing systems that widen who gets to participate and observe.
+
+Accessibility became a design principle rather than a feature — a question of how tools can extend human perception through visual, auditory, tactile, and environmental signals. Small Systems Lab grew out of that through-line, and Omoluabi is its lead: infrastructure built so that the person who notices something keeps control of how it is held and shared.
+
+→ More on this in [**Why Omoluabi**](./WHY-OMOLUABI.md).
+
+---
+
 ## Small Systems Lab
 
 Small Systems Lab (SSL) is my independent research and creative practice — a small ecosystem of projects, in formation. It builds accessible, community-centered tools that connect technology, culture, knowledge, and imagination.
@@ -36,7 +48,7 @@ Small Systems Lab (SSL) is my independent research and creative practice — a s
 
 The ecosystem holds six branches:
 
-- **Omoluabi** — Civic information and editorial intelligence systems for memory, truth, and public good.
+- **Omoluabi** — Civic information and editorial intelligence systems for memory, truth, and context.
 - **Echo** — AI literacy and creative technology education for communities.
 - **Earth Sensors Lab** — STEAM education and environmental sensing through hands-on science and storytelling.
 - **Accessible by Design** — Accessibility and inclusive design as the foundation for equitable systems and experiences.
@@ -45,7 +57,16 @@ The ecosystem holds six branches:
 
 **Guiding principles:** Accessible &middot; Open &middot; Ethical &middot; Community-centered &middot; Future-oriented
 
-**Focus areas:** Information Infrastructure &middot; Cultural Memory &amp; Storytelling &middot; AI Literacy &amp; Education &middot; Environmental Sensing &amp; Science &middot; Accessibility &amp; Inclusion &middot; Speculative Futures &amp; Imagination
+---
+
+## Areas of Concentration
+
+- **Accessibility** — Accessible design, disability culture, inclusive technologies, and equitable participation.
+- **Civic Information** — Editorial intelligence, information systems, documentation, archives, and public-interest technology.
+- **AI Literacy** — Learning tools, critical engagement, creative experimentation, and public education.
+- **Environmental Observation** — Sensors, environmental data, astronomy, Earth observation, and scientific storytelling.
+- **Cultural Memory** — Archives, oral histories, language preservation, historical documentation, and collective knowledge.
+- **Speculative Storytelling** — Worldbuilding, future histories, science fiction, visual narratives, and emerging technologies.
 
 ---
 
@@ -53,16 +74,28 @@ The ecosystem holds six branches:
 
 ### Omoluabi
 
+*Editorial intelligence &middot; Cultural memory &middot; Civic knowledge*
+
 Editorial intelligence and civic information infrastructure — provenance, translation, accessibility, and cultural memory.
 
+**The device:** Observe &middot; Verify &middot; Translate &middot; Preserve &middot; Share
+
 Omoluabi works from a principle of **sovereignty over observation**: the person who noticed something controls how it is held, when it moves, what form it takes, and who benefits. It is the infrastructure that keeps the interval open for consent, context, and care — on terms set by the observer, not the system.
+
+<div align="center">
+  <img src="assets/omoluabi-spec.png"
+       alt="Industrial-design spec sheet for the Omoluabi device, a rugged handheld field recorder, shown from front, back, side, and bottom. Labelled parts include a status LED, an 8MP camera and flash, a sunlight-readable touchscreen, physical navigation buttons that work with gloves, a directional microphone array, a modular body with replaceable battery, a textured grip, a lanyard loop, power and record buttons, volume and zoom controls, a USB-C port, and an SD card slot. The front screen shows a recording in progress: 'Interview — Bauchi, Nigeria.' Side panels list core principles — Truth First, People Centered, Do No Harm, Open and Accountable, Built to Last — what the device does, and that it is built for compromised environments: offline, low-bandwidth, secure, long battery, field-ready. A colorways row names five finishes after place. Tagline: a narrative tool for keeping stories in their owners' hands."
+       width="820">
+  <br>
+  <sub><em>The Omoluabi device — a portable, open-source field recorder for documenting signals with provenance, care, and consent. Observe &middot; Contextualize &middot; Preserve &middot; Share.</em></sub>
+</div>
 
 <div align="center">
   <img src="assets/omoluabi-device.png"
        alt="Overview poster for Omoluabi, shown as a portable handheld device with a companion web engine. The left side lists core qualities — multilingual access, verifiable provenance, preservation of cultural memory, and a public-interest focus — alongside web-engine features such as source discovery, a context graph, provenance tracking, a human-reviewed translation layer, and local-first data control. The right side renders the cream-colored e-ink device with a simple menu (Search, Explore Sources, Translate, Timeline, Archive, Settings) and the line: Information is power. Context is clarity. Memory is resistance."
        width="760">
   <br>
-  <sub><em>Omoluabi as a portable device and companion web engine — a tool for truth, context, and memory.</em></sub>
+  <sub><em>Omoluabi as a portable device and companion web engine — editorial intelligence, cultural memory, civic knowledge.</em></sub>
 </div>
 
 ```
@@ -70,14 +103,6 @@ Human observed   ·   Machine suggested   ·   Context missing   ·   Consent un
 Protected uncertainty   ·   Unsafe to publish   ·   Ready for review   ·   Withheld
 ```
 <sub>Omoluabi's evidence states — the vocabulary the system uses to hold what is observed.</sub>
-
-<div align="center">
-  <img src="assets/omoluabi-civilizational.png"
-       alt="A dark, gold-lined poster titled 'The Omoluabi Device — a tool for preserving humanity's memory across time.' At the center floats an ornate handheld device etched with sacred geometry. Encircling it are themed nodes, each with a short description: ancient geometry, editorial intelligence, accessibility, AI literacy, cultural memory, speculative futures, translation, oral history, timekeeping, and community observation. A panel describes Omoluabi as a covenant between past, present, and future — a promise that stories will never be lost — and a footer places the project within Small Systems Lab."
-       width="600">
-  <br>
-  <sub><em>A more mythic framing of the same project — Omoluabi as civilizational technology: ancient wisdom, future technology, collective memory.</em></sub>
-</div>
 
 Repository: https://github.com/ukadike/omoluabi
 
@@ -145,12 +170,6 @@ The New York Times Digital &middot; Dow Jones &middot; PBS/WNET &middot; Microso
 - Lincoln Center Accessibility Fellow
 - Eyebeam leadership team
 - Artist mentorship, accessibility, and public-interest technology initiatives
-
----
-
-## Current Areas of Research
-
-Editorial intelligence systems &middot; Accessibility and inclusive design &middot; AI literacy and public understanding &middot; Cultural memory and archives &middot; Environmental sensing &middot; Human-centered information systems &middot; Speculative futures and worldbuilding &middot; Disability and emerging technologies
 
 ---
 
