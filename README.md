@@ -143,7 +143,6 @@ The New York Times Digital &middot; Dow Jones &middot; PBS/WNET &middot; Microso
 
 - Processing Foundation Fellow
 - Lincoln Center Accessibility Fellow
-- Mozilla Creative Media Award recipient
 - Eyebeam leadership team
 - Artist mentorship, accessibility, and public-interest technology initiatives
 
