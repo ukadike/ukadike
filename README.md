@@ -123,6 +123,7 @@ Protected uncertainty   ·   Unsafe to publish   ·   Ready for review   ·   Wi
 ```
 <sub>Omoluabi's evidence states — the vocabulary the system uses to hold what is observed.</sub>
 
+**Live site:** https://ukadike.github.io/omoluabi/
 Repository: https://github.com/ukadike/omoluabi
 
 ### Earth Sensors Lab
@@ -135,7 +136,8 @@ Environmental observation, STEAM education, sensor-based learning, astronomy, an
 
 AI literacy, learning systems, public engagement, and creative technology education.
 
-*Repository in development.*
+**Live site:** https://ukadike.github.io/echo/
+Repository: https://github.com/ukadike/Echo
 
 ### Accessible by Design
 
@@ -155,6 +157,7 @@ Speculative fiction, future histories, cultural memory, and worldbuilding.
   <sub><em>Umada — a speculative-noir set on South Africa's Southern Cape. A Cape Agulhas Research Foundation (C.A.R.F.) researcher tends a wounded soldier at the edge of the sea.</em></sub>
 </div>
 
+**Live site:** https://ukadike.github.io/Umada/
 Repository: https://github.com/ukadike/Umada
 
 ---
