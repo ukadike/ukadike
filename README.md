@@ -130,7 +130,8 @@ Repository: https://github.com/ukadike/omoluabi
 
 Environmental observation, STEAM education, sensor-based learning, astronomy, and scientific storytelling — gardens as living laboratories for sensing and collaborative interpretation.
 
-*Repository in development.*
+**Live site:** https://ukadike.github.io/earth-sensors-lab/
+Repository: https://github.com/ukadike/Earth-Sensors-Lab
 
 ### Echo
 
@@ -141,9 +142,9 @@ Repository: https://github.com/ukadike/Echo
 
 ### Accessible by Design
 
-Accessibility-first tools, inclusive design methods, and disability-centered technology.
+Accessibility-first tools, inclusive design methods, and disability-centered technology. Includes an open-source WCAG 2.2+ auditing toolkit for websites, p5.js sketches, and PDFs, alongside the original Accessible by Design workshop guide.
 
-*Repository in development.*
+Repository: https://github.com/ukadike/accessible-by-design-prototyping
 
 ### Umada
 
