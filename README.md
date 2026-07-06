@@ -34,9 +34,11 @@ Accessibility became a design principle rather than a feature — a question of 
 
 ---
 
-## Small Systems Lab
+## [Small Systems Lab](https://ukadike.github.io/small-systems-lab/)
 
 Small Systems Lab (SSL) is my independent research and creative practice — a small ecosystem of projects, in formation. It builds accessible, community-centered tools that connect technology, culture, knowledge, and imagination.
+
+**Live site:** https://ukadike.github.io/small-systems-lab/ &middot; Repository: https://github.com/ukadike/Small-Systems-Lab
 
 <div align="center">
   <img src="assets/ssl-ecosystem.png"
@@ -144,6 +146,7 @@ Repository: https://github.com/ukadike/Echo
 
 Accessibility-first tools, inclusive design methods, and disability-centered technology. Includes an open-source WCAG 2.2+ auditing toolkit for websites, p5.js sketches, and PDFs, alongside the original Accessible by Design workshop guide.
 
+**Live site:** https://ukadike.github.io/accessible-by-design-prototyping/
 Repository: https://github.com/ukadike/accessible-by-design-prototyping
 
 ### Umada
@@ -158,7 +161,7 @@ Speculative fiction, future histories, cultural memory, and worldbuilding.
   <sub><em>Umada — a speculative-noir set on South Africa's Southern Cape. A Cape Agulhas Research Foundation (C.A.R.F.) researcher tends a wounded soldier at the edge of the sea.</em></sub>
 </div>
 
-**Live site:** https://ukadike.github.io/Umada/
+**Live site:** https://ukadike.github.io/umada/
 Repository: https://github.com/ukadike/Umada
 
 ---
