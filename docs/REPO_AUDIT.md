@@ -38,7 +38,7 @@ None found in `README.md` or `WHY-OMOLUABI.md` (all image and internal links res
 - **Earth Sensors Lab** was listed as "Repository in development," but the
   `Earth-Sensors-Lab` repo already exists with a live GitHub Pages site
   (confirmed via `Small-Systems-Lab`'s own homepage, which already links to
-  `https://ukadike.github.io/earth-sensors-lab/`). **Fixed:** added the live site
+  `https://ukadike.github.io/Earth-Sensors-Lab/`). **Fixed:** added the live site
   and repository links, matching the URL casing already established and working in
   the Small Systems Lab hub's own navigation.
 - **Accessible by Design** was listed as "Repository in development," but

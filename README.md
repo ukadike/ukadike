@@ -130,14 +130,14 @@ Repository: https://github.com/ukadike/omoluabi
 
 Environmental observation, STEAM education, sensor-based learning, astronomy, and scientific storytelling — gardens as living laboratories for sensing and collaborative interpretation.
 
-**Live site:** https://ukadike.github.io/earth-sensors-lab/
+**Live site:** https://ukadike.github.io/Earth-Sensors-Lab/
 Repository: https://github.com/ukadike/Earth-Sensors-Lab
 
 ### Echo
 
 AI literacy, learning systems, public engagement, and creative technology education.
 
-**Live site:** https://ukadike.github.io/echo/
+**Live site:** https://ukadike.github.io/Echo/
 Repository: https://github.com/ukadike/Echo
 
 ### Accessible by Design
