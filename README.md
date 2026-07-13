@@ -168,7 +168,7 @@ Repository: https://github.com/ukadike/Umada
 **Head of Artist Initiatives &amp; Inclusion** — Eyebeam &middot; 2020–2024
 Led artist support programs, accessibility initiatives, fellowship development, and community engagement for a leading art and technology organization. The role was created to reflect this leadership scope.
 
-**Accessibility Fellow** — Lincoln Center for the Performing Arts &middot; 2019–2020
+**Digital Accessibility Fellow** — Lincoln Center for the Performing Arts &middot; 2019–2020
 Developed accessibility strategies, resources, and practices for digital and cultural programming.
 
 **Fellow and Mentor** — Processing Foundation &middot; 2021–2023
