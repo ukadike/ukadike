@@ -76,6 +76,8 @@ The ecosystem holds six branches:
 
 **Guiding principles:** Accessible &middot; Open &middot; Ethical &middot; Community-centered &middot; Future-oriented
 
+Full index of every public SSL page: [Site Map](https://ukadike.github.io/Small-Systems-Lab/site-map/).
+
 ---
 
 ## Areas of Concentration
